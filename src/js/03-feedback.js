@@ -16,7 +16,6 @@ if (resultDataLS !== undefined) {
 }
 
 const formFields = event => {
-  console.log('cccc');
   const {
     elements: { email, message },
   } = formEl;
